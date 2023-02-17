@@ -12,6 +12,12 @@
   </p>
 </p>
 
+<p align="center">
+  <a href="https://www.producthunt.com/posts/simplovr?utm_source=badge-featured&utm_medium=badge&utm_souce=badge-simplovr">
+    <img src="https://api.producthunt.com/widgets/embed-image/v1/featured.svg?post_id=380085&theme=light" alt="SimploVR - A&#0032;cheap&#0032;but&#0032;incredible&#0032;way&#0032;to&#0032;vr&#0046; | Product Hunt" style="width: 250px; height: 54px;" width="250" height="54" />
+  </a>
+</p>
+
 # What is SimploVR?
 Simplo VR is a cheap virtual reality headset with 6-dof, controllers, support for steamvr, and much more. Made for the community by the community, simplo is the easiest way to enter virtual reality worlds without paying a fortune.
 
