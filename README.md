@@ -19,16 +19,16 @@
 </p>
 
 # What is SimploVR?
-Simplo VR is a cheap virtual reality headset with 6-dof, controllers, support for steamvr, and much more. Made for the community by the community, simplo is the easiest way to enter virtual reality worlds without paying a fortune.
+SimploVR is a cheap virtual reality headset that provides a incredible VR experience for users. It brings 6-degree-of-freedom (6DoF) tracking, controllers, and compatibility with SteamVR, enabling users to interact with virtual environments in the best possible way.
 
-We work hard to make SimploVR an incredible and cheap experience that lets you explore the virtual reality worlds. We use refined code, hardware emulation, and so much more to make the experience incredible, keep the price low, or even lower the price.
+What makes SimploVR stand out is that it's a community-driven project created by VR enthusiasts, for VR enthusiasts. We worked hard to refine the hardware and software to provide a high-quality experience while keeping the price low.
 
 > NOTE: SimploVR is under active development, most of the listed features are still experimental and subject to change.
 
 <a href="https://simplovr.mintlify.app">More information</a>
 
 # Features
-SimploVR was made to be an incredible and cheap way to vr. We are always working hard to develop things that make the experience pretty great. We use the best that the cheap technology we have has to offer.
+SimploVR was made to be an affordable VR headset that provides an immersive experience without breaking the bank. We work hardly to continually improve the technology and user experience. We want it to be the perfect way to explore virtual reality without paying a fortune.
 - 6 degrees of freedom (6-DOF)
 - Positional Tracking
 - Controllers
