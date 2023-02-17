@@ -2,7 +2,7 @@
   <a href="#">
   </a>
   <p align="center">
-   <img width="150" height="150" src="images/logo.png" alt="Logo">
+   <img width="150" height="150" src="logo.png" alt="Logo">
   </p>
   <h1 align="center"><b>SimploVR</b></h1>
   <p align="center">
